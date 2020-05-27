@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LanguageOptions renders correctly 1`] = `
+<div
+  class="filter"
+>
+  <label
+    for="autocomplete-dropdown"
+  >
+    Select a language:
+  </label>
+
+  <autocomplete-dropdown-stub
+    id="autocomplete-dropdown"
+    options=""
+    value=""
+  />
+</div>
+`;

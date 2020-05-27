@@ -31,7 +31,7 @@
 		"test": "npm-run-all test:*",
 		"prepare": "node build/wikimedia-ui-base.js",
 		"prepublishOnly": "npm run build",
-		"storybook": "start-storybook"
+		"storybook": "start-storybook --port=8080"
 	},
 	"files": [
 		"src/",
