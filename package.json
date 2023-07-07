@@ -70,7 +70,7 @@
 		"sass": "^1.26.2",
 		"sass-loader": "^8.0.2",
 		"sast": "^0.8.1",
-		"stylelint": "^10.1.0",
+		"stylelint": "^15.10.1",
 		"stylelint-config-wikimedia": "^0.6.0",
 		"stylelint-processor-html": "^1.0.0",
 		"stylelint-scss": "^3.14.2",
